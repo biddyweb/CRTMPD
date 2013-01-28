@@ -61,6 +61,7 @@
 #include <sys/socket.h>
 #include <string.h>
 #include <stdarg.h>
+#include <unistd.h>
 using namespace std;
 
 
